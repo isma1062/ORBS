@@ -1,2 +1,2 @@
-py-cord==2.5.1
+py-cord==2.6.1
 google-genai
